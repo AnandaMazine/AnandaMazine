@@ -1,4 +1,4 @@
-# 👩🏽‍💻 Ananda Mazine
+# 👩🏻‍💻 Ananda Mazine
 ---
 ## ✨ Sobre mim
 🌎 Formada em Turismo pela UNESP  
