@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👩🏽‍💻 Ananda Mazine
+---
+## ✨ Sobre mim
+🌎 Formada em Turismo pela UNESP  
+💻 Em transição para Desenvolvimento de Software - FATEC Registro  
+🚀 Buscando oportunidades para aplicar meus conhecimentos e evoluir na área  
 
-<!--
-**AnandaMazine/AnandaMazine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Linguagens
+Java • JavaScript • TypeScript • Python • PHP • HTML  
+
+### ⚙️ Frameworks
+Spring Boot • Express  
+
+### 🌐 Runtime / Ambiente
+Node.js  
+
+### 🛠️ Ferramentas
+Git & GitHub • Postman • JUnit • Nodemon  
+
+### 🗄️ Banco de Dados
+SQL • NoSQL  
+---
+
+## 📊 Estatísticas GitHub
+
+![AnandaMazine GitHub stats](https://github-readme-stats.vercel.app/api?username=anandamazine&show_icons=true&theme=radical)
+
+---
+
+## 🧠 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandamazine&layout=compact)
+
+---
+
+## 📫 Contato
+
+* LinkedIn: https://www.linkedin.com/in/anandamazine/  
+* Email: anandacristine1@gmail.com  
